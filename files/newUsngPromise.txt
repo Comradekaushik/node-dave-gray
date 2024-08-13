@@ -1,0 +1,1 @@
+new text using Promise asynchronous approach and result of reading the previous file Hi,i am BB0

@@ -1,0 +1,4 @@
+/node_modules
+.env
+
+# npm install when a package has package.json but no node_modules folder
